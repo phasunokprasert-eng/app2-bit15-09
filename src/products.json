@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name":"เสื้อลายไดโนเสาร์",
+        "image":"https://down-th.img.susercontent.com/file/th-11134207-7r98p-ly2016r6vcfkc8",
+         "price": 89
+    },
+    {
+        "id":2,
+        "name":"กางเกงช้าง",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWa67hHk_UeYoB-rERwTjvLb-H_fsDVf8rb_9AW1e5Q&s=10",
+        "price": 94
+    },
+    {
+        "id":3,
+        "name":"หมวก",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS952gsfA0NiLw2Pwx9gehbIr9eEt845pEVR0fr2iFfLg&s=10",
+         "price": 85
+    },
+    {
+        "id":4,
+        "name":"รองเท้าแตะ",
+        "image":"https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2FCDSPIM%2Fweb%2FImage%2FMKP1136%2FNANYANG-BlueSlipperNo200Size10-MKP1136667-2.webp&w=1080&q=75",
+         "price": 119
+    },
+     {
+        "id":5,
+        "name":"กระเป๋าเดินทาง",
+        "image":"https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2FCDSPIM%2Fweb%2FImage%2FMKP1782%2FBAGGAGELUGGAGE-SPORTALUMINIUMLUGGAGE28INCHBLACK-MKP1782394-2.webp&w=1080&q=75",
+         "price": 6490
+    },
+    {
+        "id":6,
+        "name":"ถุงเท้า",
+        "image":"https://o2o-static.lotuss.com/products/73889/75711254.jpg",
+         "price": 400
+    },
+    {
+        "id":7,
+        "name":"ผ้าห่ม",
+        "image":"https://i0.wp.com/kenkoshop.co.th/wp-content/uploads/2025/10/%E0%B8%A3%E0%B8%B9%E0%B8%9B-Tororon-Blanket-800x800px-5.jpg?fit=800%2C800&ssl=1",
+         "price": 800
+    },
+    {
+        "id":8,
+        "name":"สื้อแข่งผู้ชายทีมลิเวอร์พูล",
+        "image":"https://store.liverpoolfc.co.th/cdn/shop/files/AD001AP065FATH-0.jpg?v=1779176041",
+         "price": 2230
+    },
+    {
+        "id":9,
+        "name":"เสื้อกันฝน",
+        "image":"https://nipponsafety.com/wp-content/uploads/2021/08/%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%9D%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%B2%E0%B8%A7.jpg",
+         "price": 100
+    },
+    {
+        "id":10,
+        "name":"ร่ม",
+        "image":"https://inwfile.com/s-cx/183wn8.png",
+         "price":53 
+    }
+]
